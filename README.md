@@ -1,18 +1,17 @@
 <h1 align="center">DWAdmin</h1>
 
-![DWAdmin](https://raw.githubusercontent.com/andre12001/DWAdmin-Template/main/example.jpg?raw=true)
 
 ## Live Demo
-https://andre12001.github.io/
+https://alejandratajiboy.github.io/Plantilla-DWAdmin/
 
 ## Want the Latest Templates?
 
-open this demo link https://atranathemes.github.io/
+open this demo link https://alejandratajiboy.github.io/Plantilla-DWAdmin/
 
 ## Installation
 1. Clone this repository.
 ```bash
-git clone https://github.com/andre12001/DWAdmin-Template.git
+git clone https://alejandratajiboy.github.io/Plantilla-DWAdmin/
 ```
 2. To view the website, go to the cloned folder and then open the index.html file.
 
@@ -30,15 +29,11 @@ Because I want this template to be enjoyed by others.
 - Reset password page
 
 ## 🧑 Author
-- YouTube: <a href="https://www.youtube.com/channel/UCDzN3CzrBwdCG-QXEp6u23Q">Andre Tri Ramadana</a>
-- Facebook : <a href="https://www.facebook.com/andre123.co.id/">Andre Tri Ramadana</a>
-- Github : <a href="https://github.com/andre12001"> @andre12001</a>
+- Github : <a href="https://github.com/AlejandraTajiboy"> @alejandratajiboy</a>
 
-## 🧑 Support me at
-- Trakteer : <a href="https://trakteer.id/andre12001"> @andre12001</a>
 
 ## 📝 License
-- Copyright © 2020 DWAdmin
+- Copyright © 2026 DWAdmin
 - **DWAdmin is open-sourced software licensed under the MIT license**
 
 ------------
